@@ -1,0 +1,10 @@
+/.settings
+/.project
+/.pydevproject
+/.idea
+
+*.pyc
+*~
+*.log
+*.tmp
+*.pid
